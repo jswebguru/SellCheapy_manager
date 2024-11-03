@@ -4,20 +4,6 @@
 
 ---
 
-
-# Table of Contents
-
-- [Introduction](https://github.com/globalsmile/Optimizing-Inventory-Management#Introduction)
-- [Problem Statement](https://github.com/globalsmile/Optimizing-Inventory-Management#Problem-Statement)
-- [Data Sourcing](https://github.com/globalsmile/Optimizing-Inventory-Management#Data-Sourcing)
-- [Data Preparation](https://github.com/globalsmile/Optimizing-Inventory-Management#Data-Preparation)
-- [Data Modeling](https://github.com/globalsmile/Optimizing-Inventory-Management#Data-Modeling)
-- [Data Visualization and Analysis](https://github.com/globalsmile/Optimizing-Inventory-Management#Data-Visualization-and-Analysis)
-- [Shareable link](https://github.com/globalsmile/Optimizing-Inventory-Management#Shareable-Link)
-
-
----
-
 # Introduction
 
 SellCheapy Retail is a chain of department stores that sells a wide range of products, including bikes and different components. Despite having a large customer base, the company has been struggling to 
@@ -42,8 +28,8 @@ Based on the request that was made from the management team we are following the
 # Data Sourcing
 
 - The data set used for this analysis was sourced from [AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) 
-- The additional data set used for this analysis is available at: [Sales Budget](https://github.com/globalsmile/Optimizing-Inventory-Management/blob/main/SalesBudget.xlsx)
-- The query used to update the database can be found at [Update Query](https://github.com/globalsmile/Sales-Management-Analysis/blob/main/Update_AdventureWorksDW_Data.sql)
+- The additional data set used for this analysis is available at: [Sales Budget](https://github.com/jswebguru/Optimizing-Inventory-Management/blob/main/SalesBudget.xlsx)
+- The query used to update the database can be found at [Update Query](https://github.com/jswebguru/Sales-Management-Analysis/blob/main/Update_AdventureWorksDW_Data.sql)
 
 ---
 
